@@ -1,0 +1,7 @@
+python 3.*
+PyNacl
+SQLAlchemy
+requests
+discord.py
+youtube_dl
+FFMpeg

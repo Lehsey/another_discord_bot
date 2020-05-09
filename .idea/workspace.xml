@@ -6,73 +6,11 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a57ad9-a7d3-4892-b393-913bc885bf07" name="Default Changelist" comment="fix FFmpeg">
-      <change afterPath="$PROJECT_DIR$/FFmpeg/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/bin/ffmpeg.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/bin/ffplay.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/bin/ffprobe.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/developer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/fate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-bitstream-filters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-codecs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-devices.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-filters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-formats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-protocols.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-resampler.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-scaler.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-utils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffplay-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffplay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffprobe-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffprobe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/general.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/git-howto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavcodec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavdevice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavfilter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavformat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavutil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libswresample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libswscale.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/mailing-list-faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/nut.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/platform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/ffprobe.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-1080p.ffpreset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-1080p50_60.ffpreset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-360p.ffpreset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-720p.ffpreset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-720p50_60.ffpreset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/get_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/get_video.py" afterDir="false" />
-    </list>
+    <list default="true" id="50a57ad9-a7d3-4892-b393-913bc885bf07" name="Default Changelist" comment="fix FFmpeg" />
     <list id="52fbe665-2ff7-4883-8165-bcf806f24668" name="Revert &quot;alpha&quot;" comment="" />
     <list id="17b149e2-5d6b-4ee7-91ee-8d16eb5d2354" name="Revert &quot;fix FFmpeg&quot;" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -142,17 +80,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
               <option name="COLUMN_WIDTH">
                 <map>
                   <entry key="2" value="44" />
@@ -184,10 +111,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="110" y="77" key="DiffContextDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589016141580" />
-    <state x="1317" y="320" key="FileChooserDialogImpl" timestamp="1589019370973">
+    <state x="1317" y="320" key="FileChooserDialogImpl" timestamp="1589020267363">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="1317" y="320" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1589019370973" />
+    <state x="1317" y="320" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1589020267363" />
     <state x="198" y="105" key="MergeDialog" timestamp="1589016919254">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -204,10 +131,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1386" y="493" key="VCS.ChangelistChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1589017644076" />
-    <state x="612" y="247" key="Vcs.Push.Dialog.v2" timestamp="1589018818300">
+    <state x="926" y="246" key="Vcs.Push.Dialog.v2" timestamp="1589020113885">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="612" y="247" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1589018818300" />
+    <state x="926" y="246" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1589020113885" />
     <state x="1347" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589019248950">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -224,9 +151,9 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1342" y="440" key="git4idea.rebase.GitRebaseDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589016189686" />
-    <state x="814" y="477" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589015885970">
+    <state x="814" y="477" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589020107616">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="814" y="477" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589015885970" />
+    <state x="814" y="477" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589020107616" />
   </component>
 </project>
