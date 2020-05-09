@@ -34,10 +34,11 @@ class Yutube_api:
         data = await loop.run_in_executor(None, lambda: self.ytdl.extract_info(url, download=False))
         if 'entries' in data:
             data = data['entries']
-            players = [Player(discord.FFmpegPCMAudio(el['url'], **self.ffmpeg_options), data=el) for el in data]
+            players = [Player(discord.FFmpegPCMAudio(
+                el['url'], **self.ffmpeg_options, executable='FFmpeg/bin/ffmpeg.exe'), data=el) for el in data]
             return players
         file_name = data['url']
-        return Player(discord.FFmpegPCMAudio(file_name, **self.ffmpeg_options), data=data)
+        return Player(discord.FFmpegPCMAudio(file_name, **self.ffmpeg_options, executable='FFmpeg/bin/ffmpeg.exe'), data=data)
 
 
 class Player(discord.PCMVolumeTransformer):

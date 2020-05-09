@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50a57ad9-a7d3-4892-b393-913bc885bf07" name="Default Changelist" comment="fix FFmpeg">
+      <change afterPath="$PROJECT_DIR$/FFmpeg/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/bin/ffmpeg.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/bin/ffplay.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/bin/ffprobe.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/developer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/fate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-bitstream-filters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-codecs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-devices.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-filters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-formats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-protocols.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-resampler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-scaler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg-utils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffmpeg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffplay-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffplay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffprobe-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/ffprobe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/git-howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavcodec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavdevice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavfilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavformat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libavutil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libswresample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/libswscale.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/mailing-list-faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/nut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/doc/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/ffprobe.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-1080p.ffpreset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-1080p50_60.ffpreset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-360p.ffpreset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-720p.ffpreset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FFmpeg/presets/libvpx-720p50_60.ffpreset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/get_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/get_video.py" afterDir="false" />
+    </list>
+    <list id="52fbe665-2ff7-4883-8165-bcf806f24668" name="Revert &quot;alpha&quot;" comment="" />
+    <list id="17b149e2-5d6b-4ee7-91ee-8d16eb5d2354" name="Revert &quot;fix FFmpeg&quot;" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leshey &lt;lahasek@mail.ru&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="c5773dbb055911b1f67eda511790449c2e5044f5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1bfGWFAwh1nJV5tPZcXhUGn0hbi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lahas\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a57ad9-a7d3-4892-b393-913bc885bf07" name="Default Changelist" comment="" />
+      <changelist id="52fbe665-2ff7-4883-8165-bcf806f24668" name="Revert &quot;alpha&quot;" comment="" />
+      <changelist id="17b149e2-5d6b-4ee7-91ee-8d16eb5d2354" name="Revert &quot;fix FFmpeg&quot;" comment="" />
+      <created>1589015763314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589015763314</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;fix FFmpeg&quot;&#10;&#10;This reverts commit f53a7ca1">
+      <created>1589016812898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589016812898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;alpha&quot;&#10;&#10;This reverts commit c5773dbb">
+      <created>1589016929854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589016929854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="44" />
+                  <entry key="3" value="118" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;fix FFmpeg&quot;&#10;&#10;This reverts commit f53a7ca1" />
+    <MESSAGE value="Revert &quot;alpha&quot;&#10;&#10;This reverts commit c5773dbb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;alpha&quot;&#10;&#10;This reverts commit c5773dbb" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1422" y="442" key="#Notifications" timestamp="1589016637886">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1422" y="442" key="#Notifications/0.0.2048.1152@0.0.2048.1152" timestamp="1589016637886" />
+    <state x="651" y="120" key="CommitChangelistDialog2" timestamp="1589019458453">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="651" y="120" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1589019458453" />
+    <state x="110" y="77" key="DiffContextDialog" timestamp="1589016141580">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="110" y="77" key="DiffContextDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589016141580" />
+    <state x="1317" y="320" key="FileChooserDialogImpl" timestamp="1589019370973">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1317" y="320" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1589019370973" />
+    <state x="198" y="105" key="MergeDialog" timestamp="1589016919254">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="198" y="105" key="MergeDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589016919254" />
+    <state x="827" y="410" width="235" height="282" key="MultipleFileMergeDialog" timestamp="1589016924346">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="827" y="410" width="235" height="282" key="MultipleFileMergeDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589016924346" />
+    <state x="954" y="215" key="SettingsEditor" timestamp="1589018244581">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="954" y="215" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1589018244581" />
+    <state x="1386" y="493" key="VCS.ChangelistChooser" timestamp="1589017644076">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1386" y="493" key="VCS.ChangelistChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1589017644076" />
+    <state x="612" y="247" key="Vcs.Push.Dialog.v2" timestamp="1589018818300">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="612" y="247" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1589018818300" />
+    <state x="1347" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589019248950">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1347" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1152@0.0.2048.1152" timestamp="1589019248950" />
+    <state x="1318" y="292" key="git4idea.branch.GitSmartOperationDialog" timestamp="1589017726949">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1318" y="292" key="git4idea.branch.GitSmartOperationDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589017726949" />
+    <state x="1253" y="367" key="git4idea.merge.GitPullDialog" timestamp="1589019346633">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1253" y="367" key="git4idea.merge.GitPullDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589019346633" />
+    <state x="1342" y="440" key="git4idea.rebase.GitRebaseDialog" timestamp="1589016189686">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1342" y="440" key="git4idea.rebase.GitRebaseDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589016189686" />
+    <state x="814" y="477" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589015885970">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="814" y="477" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589015885970" />
+  </component>
+</project>
